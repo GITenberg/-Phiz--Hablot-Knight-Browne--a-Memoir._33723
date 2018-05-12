@@ -1,0 +1,30 @@
+_repo: -Phiz--Hablot-Knight-Browne--a-Memoir._33723
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kitton, Frederic George
+    aliases:
+    - Kitton, Fred G. (Frederic George)
+    - Kitton, F. G. (Frederic George)
+    - Kitton, Frederic G. (Frederic George)
+    birthdate: 1856
+    deathdate: 1904
+    gutenberg_agent_id: '35197'
+    url: http://www.gutenberg.org/2009/agents/35197
+description: ''
+gutenberg_issued: '2010-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browne, Hablot Knight, 1815-1882'
+- !lcc 'NC'
+title: '"Phiz" (Hablot Knight Browne), a Memoir.'
+url: http://www.gutenberg.org/ebooks/33723
